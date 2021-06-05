@@ -1,0 +1,16 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "News Letter Signup Application ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tshetrim Lhendup",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.41",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
